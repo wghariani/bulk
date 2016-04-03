@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Documat.LogReceiver", "Documat.LogReceiver\Documat.LogReceiver.csproj", "{618B9474-3603-4EDA-A2DC-EA9DC4E60D40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Documat.LogSender", "Documat.LogSender\Documat.LogSender.csproj", "{EE8CD3C9-4FDF-43E5-BF24-1C3D246A3728}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{618B9474-3603-4EDA-A2DC-EA9DC4E60D40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{618B9474-3603-4EDA-A2DC-EA9DC4E60D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{618B9474-3603-4EDA-A2DC-EA9DC4E60D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{618B9474-3603-4EDA-A2DC-EA9DC4E60D40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE8CD3C9-4FDF-43E5-BF24-1C3D246A3728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE8CD3C9-4FDF-43E5-BF24-1C3D246A3728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE8CD3C9-4FDF-43E5-BF24-1C3D246A3728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE8CD3C9-4FDF-43E5-BF24-1C3D246A3728}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
